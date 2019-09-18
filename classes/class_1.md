@@ -1,6 +1,6 @@
 ### Class: Light
 
-Attributes:
+**Attributes:**
 
 on (boolean)
 
@@ -15,7 +15,7 @@ lightbulbsPerLight (integer)
 lightbulbStatus (boolean: on/off = working/broken)
 
 
-Methods:
+**Methods:**
 
 changeOnStatus (change light to on or off)
 
