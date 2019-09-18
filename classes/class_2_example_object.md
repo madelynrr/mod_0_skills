@@ -1,8 +1,8 @@
 #### Class: Vegetable
 
-Object: Beet
+**Object: Beet**
 
-Attributes:
+**Attributes:**
 
 color: "red and brown"
 
@@ -16,7 +16,7 @@ taste: "like dirt"
 
 
 
-Methods:
+**Methods:**
 
 cook (16 - 1 = 15)
 

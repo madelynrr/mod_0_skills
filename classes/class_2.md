@@ -1,6 +1,6 @@
 ### Class: Vegetable
 
-Attributes:
+**Attributes:**
 
 color ("string")
 
@@ -14,7 +14,7 @@ taste ("string")
 
 
 
-Methods:
+**Methods:**
 
 cook (numberOfVegetable - 1)
 

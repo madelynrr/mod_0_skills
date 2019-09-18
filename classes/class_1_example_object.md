@@ -1,8 +1,8 @@
 ### Class: Light
 
-Object: Table Light
+**Object: Table Light**
 
-Attributes:
+**Attributes:**
 
 on: true
 
@@ -17,7 +17,7 @@ lightbulbsPerLight: 2
 lightbulbStatus: true (working)
 
 
-Methods:
+**Methods:**
 
 changeOnStatus (turn off light)
 
