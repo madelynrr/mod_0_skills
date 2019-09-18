@@ -1,4 +1,4 @@
-###Class: Light
+### Class: Light
 
 Attributes:
 
@@ -23,6 +23,4 @@ changeColor (change color attribute)
 
 changeBrightness (dim or brighten lights)
 
-calculateNeededLightbulbs (numberOfLights * lightbulbsPerLight - all lightbulbs
-
-with lightbulbStatus "broken")
+calculateNeededLightbulbs (all lightbulbs with lightbulbStatus: false/broken)
